@@ -1,0 +1,11 @@
+# Datos de conexión del hosting (contienen contraseña)
+config/db.local.php
+
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs y temporales
+*.log
