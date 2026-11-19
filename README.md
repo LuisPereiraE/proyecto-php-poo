@@ -48,6 +48,6 @@ PHP 8 · MySQL · HTML · CSS · MVC · POO
 ## Mejoras pendientes
 
 - Diseño responsive para celulares y tablets
-- Validar los cambios de estado de los pedidos (por ejemplo, que un pedido "enviado" no pueda volver a "en preparación")
+- Validar el flujo de estados de los pedidos
 - Usar transacciones al confirmar pedidos
 - Mejorar la validación de la subida de imágenes
